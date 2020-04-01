@@ -1,6 +1,6 @@
 # DemoSpringData
 
-* springdatajpa = demo contenant le test du dao
+* demospringdatajpa = demo contenant le test du dao
 
 <b>Fonctionnalités présentes : </b>
 - Creer un étudiant
